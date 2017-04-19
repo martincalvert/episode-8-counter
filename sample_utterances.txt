@@ -1,0 +1,5 @@
+DaysTillIntent how many days are left
+AMAZON.HelpIntent help
+AMAZON.StopIntent stop
+AMAZON.StopIntent abort
+AMAZON.CancelIntent cancel
